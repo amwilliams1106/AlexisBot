@@ -1,7 +1,7 @@
 {
-    "HELLO": "Hi, it's great to (virtually) meet you! I'm Alexis's resume bot, here to help you learn more about her. Say CHAT to speak with Alexis directly, or BACKGROUND, EDUCATION, or CAREER to learn more from me!",
-    "CHAT": "Sweet! Alexis will send you a personal message momentarily.",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
+    "HELLO": "Hi, it's great to (virtually) meet you!\nI'm Alexis's resume bot, here to help you learn more about her. Say CHAT to speak with Alexis directly, or BACKGROUND, EDUCATION, or CAREER to learn more from me!",
+    "CHAT": "Sweet! Alexis will send you a personal message soon.",
+    "BACKGROUND": "One blustry November day in Chicago, Alexis was born! She grew up in a tiny suburb (Clarendon Hills), and lived there with her mom until she was 18.\n Would you like to hear MORE, or move on to EDUCATION or CAREER?",
+    "MORE": "I'm glad we haven't bored you yet :) ",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
