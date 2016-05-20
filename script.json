@@ -1,12 +1,13 @@
 {
     "HELLO": "Hi, it's great to (virtually) meet you!\nI'm Alexis's resume bot, here to help you learn more about her. Say CHAT to speak with Alexis directly, or BACKGROUND, EDUCATION, or CAREER to learn more from me!",
-    "CHAT": "Sweet! Alexis will send you a personal message soon.",
-    "BACKGROUND": "One blustry November day in Chicago, Alexis was born! She grew up in a tiny suburb (Clarendon Hills), and lived there with her mom until she was 18.\n Would you like to hear MORE, or move on to EDUCATION or CAREER?",
+    "CHAT": "Sweet! Alexis will send you a personal message soon. In the meantime, say TRIVIA for a fun Alexis fact!",
+    "BACKGROUND": "One blustry November day in Chicago, Alexis was born! She grew up in a tiny suburb (Clarendon Hills), and lived there with her mom until she was 18.\n Would you like to hear MORE, or move on to EDUCATION or CAREER?\nYou can also say TRIVIA to hear a fun Alexis fact!",
     "MORE": "I'm glad we haven't bored you yet :)\nWhile Alexis lived in Chi-town, she spent 16 years dancing competitively, and 18 years eating pizza (not competitively, although she wishes it was).\nAfter high school, she moved out to Los Angeles! Would you like to hear about her EDUCATION or CAREER there?",
      "EDUCATION": "In September 2012, Alexis moved into her dorm on the hill at UCLA. She began writing for the NEWSPAPER shortly after, and graduated with a B.A. in COMMUNICATION STUDIES three and a half years later.",
-     "NEWSPAPER": "Alexis wrote for The Daily Bruin, UCLA's official student newspaper, for three years.\n She was trained in SPORTS Reporting by Blair Angulo of ESPN Deportes, and later cross-trained in FASHION. You can see a compilation of her published articles and feature stories %[Here](http://dailybruin.com/author/camayak_184/)",
-     "SPORTS": "GO BEARS!\nGrowing up in Chicago, sports were (and still are!) a huge part of Alexis's life. She's a White Sox fan, but won't ever turn down a game at Wrigley, either.\n At the Daily Bruin, Alexis covered Tennis and Volleyball, for a while, was the only female reporter on the Sports section!",
-    "FASHION": "At The Daily Bruin, ",
+     "NEWSPAPER": "Alexis wrote for The Daily Bruin, UCLA's official student newspaper, for three years.\n She was trained in SPORTS Reporting by Blair Angulo of ESPN Deportes, and later cross-trained in FASHION. You can see a compilation of her published articles and feature stories below. %[Click Me!](http://dailybruin.com/author/camayak_184/)",
+     "SPORTS": "GO BEARS!\nGrowing up in Chicago, sports were (and still are!) a huge part of Alexis's life. She's a White Sox fan, but won't ever turn down a game at Wrigley, either.\n At the Daily Bruin, Alexis covered Tennis and Volleyball, for a while, was the only female reporter on the Sports section!\n Say CAREER to read about Alexis's employment history, or TRIVIA for a fun Alexis fact!",
+    "FASHION": "At The Daily Bruin, Alexis co-authored a fashion column, at met tons of great student designers in the process!\nThis experience helped her transition into her internship at THE A LIST.",
+    "TRIVIA": "Alexis loves The Lord of the Rings. Her favorite character is Bill the Pony, but his rider Samwise is a close second.",
  "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
